@@ -1,2 +1,4 @@
-# PasswordGenerator
- 
+# Password Generator
+
+- Простой скрипт для генерации паролей
+- Было написанно с целью изучения Java
