@@ -2,7 +2,7 @@ import java.util.Random;
 
 class PasswordGenerator {
     private Random random = new Random();
-    private String symbols = "qwertyuiopasdfghjklzxcvbnm";
+    private String symbols = "qwertyuiopasdfghjklzxcvbnm#_!%$@";
 
     public PasswordGenerator(String symbols, int seed) {
         this.symbols = symbols;
